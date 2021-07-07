@@ -1,0 +1,7 @@
+
+# dependencies
+/node_modules
+/.env
+/client/node_modules
+client/public/images
+
